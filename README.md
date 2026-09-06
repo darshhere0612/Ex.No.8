@@ -99,6 +99,7 @@ The generated image closely matched the original. Minor lighting adjustments imp
 <img width="1408" height="768" alt="Gemini_Generated_Image_tevwkitevwkitevw" src="https://github.com/user-attachments/assets/9ba26156-91f4-4760-bd56-b3c731151af0" />
 
 🔍 Observations
+
 Main Subject: A vibrant turquoise river flowing through a mountain valley.
 Lighting: Warm, golden hour sunlight hitting the distant snow-capped peaks.
 Colors: Dominant tones of turquoise blue, deep forest green, and stone grey.
@@ -118,21 +119,26 @@ Final Prompt:
 "A cyberpunk-style city street at night glowing with pink, blue, and purple neon lights, wet asphalt reflecting the light, futuristic buildings, and people walking under holographic signs."
 
 🧾 Comparison Table
+
 Feature	Original Image	Generated Image	Remarks
 Colors	Strong neon tones	Perfectly matched	✅ Excellent
 Lighting	Bright reflections	Slightly diffused	⚙️ Needs sharper glow
 Mood	Futuristic vibe	Well captured	✅ Good match
 Composition	Centered street	Similar alignment	✅ Accurate
-🧠 Result:
-The generated image captured the neon ambiance and structure effectively, closely resembling the original cyberpunk style.
 
 📦 Deliverables
+
 Original Reference Images
 AI-Generated Images (Outputs)
 Prompt Versions (Initial → Refined → Final)
 Comparison and Observations
 
 🧾 Conclusion
+
 This experiment demonstrates how prompt engineering helps achieve precise visual reproduction through text-to-image AI models.
 By analyzing the image carefully and refining prompts step by step, tools like DALL·E, Stable Diffusion, and MidJourney can recreate images that closely match real visuals.
 Accuracy improves through iteration, showing that well-crafted prompts are key to high-quality AI-generated art.
+
+🧠 Result:
+The generated image captured the neon ambiance and structure effectively, closely resembling the original cyberpunk style.
+
